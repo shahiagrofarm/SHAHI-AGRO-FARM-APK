@@ -1,0 +1,10 @@
+{
+  "name": "SHAHI AGRO FARM",
+  "short_name": "SHAHI AGRO",
+  "description": "Shop SHAHI GRASS SILAGE and SHAHI PREMIUM GHEE",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f6ef",
+  "theme_color": "#187c4c",
+  "icons": [{"src":"/logo-mark.jpg","sizes":"192x192","type":"image/jpeg","purpose":"any maskable"}]
+}
